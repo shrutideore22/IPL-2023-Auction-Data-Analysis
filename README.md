@@ -6,7 +6,7 @@
   Matplotlib
   Seaborn
 
-##Overview
+## Overview
 This project performs Exploratory Data Analysis (EDA) on the IPL 2023 Auction dataset using Python. The goal is to uncover actionable insights through data visualization, franchise-level breakdowns, player-wise analysis, and status distribution (sold vs unsold).
 
 ## Key Areas of Analysis
