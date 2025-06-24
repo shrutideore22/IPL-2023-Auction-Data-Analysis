@@ -1,4 +1,10 @@
 # IPL-2023-Auction-Data-Analysis
-# Tools: Python,Pandas,NumPy,Matplotlib,Seaborn
+ Tools & libraries used :
+  Python
+  Pandas
+  Numpy
+  Matplotlib
+  Seaborn
+  
 
 
